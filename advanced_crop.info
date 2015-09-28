@@ -1,0 +1,8 @@
+name = Advanced Image Cropper
+description = Allows users to select the area of an image to crop.
+core = 7.x
+package = Image
+project = advanced_crop
+dependencies[] = image
+dependencies[] = media
+dependencies[] = jquery_update
